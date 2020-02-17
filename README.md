@@ -1,8 +1,8 @@
 # Data Storm 1.0 
 
-> Team Name               : KOS
-> Kaggle Username         : ds1092
-> Kaggle Display Name     : ds1092
+> Team Name               : KOS <br />
+> Kaggle Username         : ds1092 <br />
+> Kaggle Display Name     : ds1092 <br />
 
 Team Members            : Name      : Jayasundara H.L.S.H
                           Telephone : 0719849731
