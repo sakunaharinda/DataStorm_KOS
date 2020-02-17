@@ -3,7 +3,7 @@
 > Team Name               : KOS <br />
 > Kaggle Username         : ds1092 <br />
 > Kaggle Display Name     : ds1092 <br />
-<br />
+
 > Team Members            : Name      : Jayasundara H.L.S.H <br />
 >                           Telephone : 0719849731 <br />
 >                           E-Mail    : sakunaj1996@gmail.com <br />
