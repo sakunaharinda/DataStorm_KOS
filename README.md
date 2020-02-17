@@ -3,15 +3,5 @@
 > Team Name               : KOS <br />
 > Kaggle Username         : ds1092 <br />
 > Kaggle Display Name     : ds1092 <br />
-
-> Team Members            : Name      : Jayasundara H.L.S.H <br />
->                           Telephone : 0719849731 <br />
->                           E-Mail    : sakunaj1996@gmail.com <br />
->                            Name      : Abeywardena K.G.<br />
->                           Telephone : 0766940671<br />
->                            E-Mail    : kalana.abey1996@gmail.com<br />
->                            Name      : Jayasinghe J.A.D.O<br />
->                            Telephone : 0719680782<br />
->                            E-Mail    : oshadajayasinghe@gmail.com<br />
-> Github Repository Link  : https://github.com/sakunaharinda/DataStorm_KOS<br />
-> Highest Mean F- Score   : 0.82466<br />
+# **1. Introduction**
+Banks often over-issue credit cards to applicants without properly assessing their ability to repay. This leads most cardholders to overuse their credit cards for consumption irrespective of their repayment ability. This scenario will lead to heavily accumulated credit card debts. This kind of crisis will ruin the consumer finance confidence and it is a big challenge for both banks and cardholders. The task is to crack the above scenario and predict whether the next month payment of a particular customer is a default payment or not depending on Credit Card Limit, Gender, Age, Education Status, Marital Status, Repayment Status, Due amount and Paid amount.
